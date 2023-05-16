@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="/Users/filipporizzolo/Documents/UniPD/anno2/metodiTecnologieSviluppoSoftware/assignment/MTSS-Assignment-2/roman-number/src/main/java/it/unipd/mtss/App.java">
+<error line="1" severity="error" message="Line does not match expected header line of &apos;////////////////////////////////////////////////////////////////////&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+</checkstyle>
